@@ -16,3 +16,5 @@ Machine learning is the use of statistical algorithms to perform tasks such as l
 1. https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html
 2. https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html
 3. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
+4. https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:logs/x2ec2f6f830c9fb89:log-intro/v/logarithms
+5. 
