@@ -1,6 +1,9 @@
 # Credit_Risk_Analysis
 Using Python to build and evaluate several machine learning models to predict credit risk. Being able to predict credit risk with machine learning algorithms can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
 
+## Overview
+'Fast Lending' a peer-to-peer lending services company wants to use machine learning to predict credit risk. The management believes that this will provide a quicker and more reliable known experience. It also believes that machine learning will lead to a more accurate identification of good candidates for loans. The company wants me to assist the lead data scientist in implementing this plan. In my role I will build and evaluate several machine learning models and algorithms to predict credit risk. I will be using techniques such as resampling and boosting to make the most of the models and data. Once I have designed and implemented these algorithms, I will evaluate their performance and see how well these models predict the data. 
+
 ## Background
 
 #### Machine Learning - 
